@@ -1,0 +1,19 @@
+  {
+    "custom-fields-plugin": {
+      "name": "Custom Fields Plugin",
+      "current_version": "0.0.3",
+      "minimum_wp_version": "5.0",
+      "tested_wp_version": "6.4",
+      "minimum_php_version": "7.4",
+      "author": "Your Name",
+      "homepage": "https://freewebstyles.com/",
+      "description": "WordPress管理画面にカスタム設定を追加するプラグイン",
+      "changelog": {
+        "0.0.3": ["envファイル追加"],
+        "0.0.2": ["アップデート機能追加", "セキュリティ修正"],
+        "0.0.1": ["初回リリース"]
+      },
+      "download_count": 150,
+      "last_updated": "2024-01-15"
+    }
+  }
