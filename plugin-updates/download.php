@@ -4,7 +4,7 @@ $version = $_GET['version'] ?? '';
 
 $plugin_files = [
     'custom-fields-plugin' => [
-        '0.0.3' => 'https://freewebstyles.com/api/plugin-updates/releases/v0.0.3/custom-fields-plugin.zip',
+        '0.0.4' => 'https://freewebstyles.com/api/plugin-updates/releases/v0.0.4/custom-fields-plugin.zip',
     ]
 ];
 

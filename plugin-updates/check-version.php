@@ -2,7 +2,7 @@
 header('Content-Type: application/json');
 
 $plugin_versions = [
-    'custom-fields-plugin' => '0.0.3'
+    'custom-fields-plugin' => '0.0.4'
 ];
 
 $slug = $_GET['slug'] ?? '';
