@@ -4,8 +4,8 @@ header('Content-Type: application/json');
 $plugin_info = [
     'custom-settings-plugin' => [
         'name' => 'Custom Settings Plugin',
-        'version' => '0.0.4',
-        'author' => 'Your Name',
+        'version' => '0.0.6',
+        'author' => 'Skygold',
         'homepage' => 'https://freewebstyles.com/',
         'requires' => '5.0',
         'tested' => '6.4',

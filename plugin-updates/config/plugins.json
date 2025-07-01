@@ -1,14 +1,16 @@
   {
     "custom-fields-plugin": {
       "name": "Custom Fields Plugin",
-      "current_version": "0.0.4",
+      "current_version": "0.0.6",
       "minimum_wp_version": "5.0",
       "tested_wp_version": "6.4",
       "minimum_php_version": "7.4",
-      "author": "Your Name",
+      "author": "Skygold",
       "homepage": "https://freewebstyles.com/",
       "description": "WordPress管理画面にカスタム設定を追加するプラグイン",
       "changelog": {
+        "0.0.6": ["フォント設定追加"],
+        "0.0.5": ["プラグイン情報変更", "有効化時のテーブル作成エラー修正"],
         "0.0.4": ["secondary_contrast_color初期値変更"],
         "0.0.3": ["envファイル追加"],
         "0.0.2": ["アップデート機能追加", "セキュリティ修正"],
